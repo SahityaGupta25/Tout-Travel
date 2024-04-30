@@ -1,0 +1,12 @@
+1. run command "npm init -y" and create a node modules
+2. Install Dependencies : Mongoose , Ejs , express
+3. Create "app.js"
+4. Require("express,mongoose") in app.js
+5. create a variable name as "app" and call express in that . 
+6. Search website "mongoosejs.com" & copy quick start guide code and paste in the "app.js"
+7. Use then() in copied code of "mongoosejs"
+8. Listen your server on any port "app.listen"
+9. use "app.get" for routing 
+10. Start server using nodemon
+11.  Now open CMD and try to run "mongosh" 
+12. Check DB using command "show database;"
