@@ -10,3 +10,31 @@
 10. Start server using nodemon
 11.  Now open CMD and try to run "mongosh" 
 12. Check DB using command "show database;"
+13. Create a folder named as "models" & create a file named as "place.js"
+14. Require mongoose in "place.js" & create a schema
+15. After creating a Schema , create a model & export it.
+16. create a new route using that model & schema
+17. Now go to CMD and run command "show collections;" to check your collection 
+18. If the correct database is in use then run cmd "db.collection_name.find()"
+19. Then move to that route through which information will be fetched from database
+20. After running command cross check info and move on.
+21. Create a folder named as "init" in which create a file named as "data.js" and add some data to see what's going to happen next.
+22. Create a new file "index.js" and require mongoose & "place.js" in it. 
+24. Copy "Mongoosejs.com" code in the index file.
+25. Insert & Delete data in async & await in "index.js"
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
